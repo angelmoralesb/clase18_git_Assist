@@ -1,24 +1,22 @@
-# README
+# LimpiaTuMente : https://proyectoecocapital.herokuapp.com/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Assist-098-Grupo1
 
-Things you may want to cover:
+### Integrantes
 
-* Ruby version
+ - Angel Morales
+ - Pablo Elias Rendon
+ - Daniel Ruiz 
+ - Alexander Weis
 
-* System dependencies
+ ## Descripcion del proyecto:
 
-* Configuration
+ LimpiaTuMente es un sistema de Información que permite mejorar la clasificación de los residuos por parte de la comunidad y generando una base de conocimiento al público en crecimiento 
 
-* Database creation
+ ## Funciones Básicas 
 
-* Database initialization
+ - Consultar la base de conocimiento de reciclaje para obtener la clasificación de cada residuo especificamente.
 
-* How to run the test suite
+ - Permitir dar sugerencias o preguntas según los filtros proporcionados por la aplicación
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ - Permitir ampliar la base de conocimiento del reciclaje a partir de las sugerencias o preguntas realizadas por los usuarios
