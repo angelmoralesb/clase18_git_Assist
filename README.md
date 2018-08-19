@@ -20,3 +20,4 @@
  - Permitir dar sugerencias o preguntas según los filtros proporcionados por la aplicación
 
  - Permitir ampliar la base de conocimiento del reciclaje a partir de las sugerencias o preguntas realizadas por los usuarios
+
